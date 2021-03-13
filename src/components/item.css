@@ -6,7 +6,7 @@
     background-size: cover;
     display: flex;
     justify-content: center;
-    scroll-snap-align: centern;
+    scroll-snap-align: center;
 }
 
 .item-container {
