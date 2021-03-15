@@ -89,7 +89,6 @@ function App() {
                 leftBtnLink=''
                 rightBtnTxt='LEARN MORE'
                 rightBtnLink=''
-                twoButtons='false'
                 />
      </div>
     </div>
