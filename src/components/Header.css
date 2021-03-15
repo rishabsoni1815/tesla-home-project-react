@@ -11,13 +11,15 @@
 }
 
 .header-logo {
+    cursor: pointer;
     height: 24px;
     width: 100px;
     margin-top: 7px;
 
 }
 
-.header-center {
+.header-center { 
+     cursor: pointer;
     flex: 1;
     display: flex;
     justify-content: center;
@@ -30,12 +32,14 @@
 }
 
 .header-right {
+    cursor: pointer;
     display: flex;
     justify-content: flex-end;
     text-transform: uppercase;
+    margin-right: 30px;
 }
 
 .header-right>p{
     margin: 10px;
-
+     
 }

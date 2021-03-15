@@ -41,9 +41,11 @@
 
 .item-buttons {
     display: flex;
+    cursor: pointer;
 }
 
 .item-expand {
+    cursor: pointer;
     color: rgb(20, 19, 19);
     width: 100%;
     margin-top: 3%;
