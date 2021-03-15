@@ -9,6 +9,7 @@ const Button = ({imp, text, link}) => {
           </a>
       </div>
   )
+  
 }
 
 export default Button;
